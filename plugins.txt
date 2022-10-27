@@ -1,0 +1,16 @@
+For debug:
+- c/c++
+- CodeLLDB
+- Native Debug
+
+Tests: 
+- Rust Test Explorer
+- Test Adapter Convert
+- Test Explorer UI
+
+Must have:
+-rust-analyzer
+-crates
+-Even Better TOML
+-Git Graph
+

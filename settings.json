@@ -1,0 +1,19 @@
+{
+    "editor.inlayHints.fontFamily": "Courier New",
+    "editor.inlayHints.fontSize": 13,
+
+    "workbench.colorCustomizations": {
+        "editorInlayHint.foreground": "#868686f0",
+        "editorInlayHint.background": "#00000000",
+    },
+
+    "editor.semanticTokenColorCustomizations": {
+        "rules": {
+          "*.mutable": {
+            "underline": false,
+            "fontStyle": "italic",
+            //"foreground": "#3cf0a5f0"
+          },
+        }
+      },
+}
